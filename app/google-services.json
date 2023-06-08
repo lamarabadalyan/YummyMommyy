@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114903824342",
+    "project_id": "yummymommy-134d8",
+    "storage_bucket": "yummymommy-134d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114903824342:android:e0b024a016086e3d1cd677",
+        "android_client_info": {
+          "package_name": "com.example.yummymommyfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114903824342-039an6ranhtpih43jn8o1fcb9hrk7nmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yummymommyfirebase",
+            "certificate_hash": "04edffe780b5479bb15e2ddacd98240af114c569"
+          }
+        },
+        {
+          "client_id": "114903824342-6vm93i14sko1p6tg5gonrd067m68o9ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGHs0dwdjHpJ7bXEzS4CpPlWFCcPkMn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114903824342-6vm93i14sko1p6tg5gonrd067m68o9ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
